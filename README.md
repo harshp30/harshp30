@@ -1,5 +1,28 @@
-### Hi there 👋
+### Hi there, I'm Harsh 👋
 
+I am currently a high school student from Calgary, Alberta, Canada interested in creating software and hardware systems. 
+
+My passion from STEM originates from time at FIRST robotics, completion of CS50, and my tendency to be curious. My curiosity eventually led me to building projects that are fun and unique! 
+
+I have months of experience in Python, Java, C++, and Processing 
+
+Some of my projects that you can find on here include: 
+
+- Basketball Mini hoop that keeps track of a user's makes and misses 
+- PC LED system  
+- Hand gestured RC Car 
+- A Clap (sound) controlled lamp 
+- Softwrae that can detect whether the user is wearing a mask or not 
+
+Outside of coding,  
+
+I spend time playing or watching sports 
+I spend my time giving back to the community by tutoring middle school students 
+I also run workshops teaching Java and machine learning concepts  
+
+Feel free to contact me: 
+
+LinkedIn: https://www.linkedin.com/in/hp30 
 <!--
 **harshp30/harshp30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
