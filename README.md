@@ -12,7 +12,7 @@ Some of my projects that you can find on here include:
 - PC LED system  
 - Hand gestured RC Car 
 - A Clap (sound) controlled lamp 
-- Softwrae that can detect whether the user is wearing a mask or not 
+- Software that can detect whether the user is wearing a mask or not 
 
 Outside of coding,  
 
