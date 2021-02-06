@@ -8,6 +8,7 @@ I have months of experience in Python, Java, C++, and Processing
 
 Some of my projects that you can find on here include: 
 
+- Autonomous RC Car
 - Basketball Mini hoop that keeps track of a user's makes and misses 
 - PC LED system  
 - Hand gestured RC Car 
