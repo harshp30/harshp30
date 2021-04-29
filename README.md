@@ -15,6 +15,8 @@ Some of my projects that you can find on here include:
 - A Clap (sound) controlled lamp 
 - Software that can detect whether the user is wearing a mask or not 
 
+Currently I am diving into the world of full-stack web development through a bootcamp on Udemy
+
 Outside of coding,  
 
 I spend time playing or watching sports 
