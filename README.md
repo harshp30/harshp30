@@ -2,7 +2,7 @@
 
 I am currently a high school student from Calgary, Alberta, Canada interested in creating software and hardware systems. 
 
-My passion from STEM originates from time at FIRST robotics, completion of CS50, and my tendency to be curious. My curiosity eventually led me to building projects that are fun and unique! 
+My passion from STEM originates from time at FIRST robotics, completion of CS50, completion of a Web Development Bootcamp, and my tendency to be curious. My curiosity eventually led me to building projects that are fun and unique! 
 
 I have months of experience in Python, Java, C++, and Processing 
 
@@ -15,7 +15,7 @@ Some of my projects that you can find on here include:
 - A Clap (sound) controlled lamp 
 - Software that can detect whether the user is wearing a mask or not 
 
-Currently I am diving into the world of full-stack web development through a bootcamp on Udemy and re-doing CS50ai in order get some machine learning projects up
+Currently I am interning at Xerris Inc as a Front-End developer and am re-reviewing the core concepts from CS50ai in order get some machine learning projects up.
 
 Outside of coding,  
 
