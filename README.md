@@ -1,6 +1,6 @@
 ### Hi there, I'm Harsh 👋
 
-I am currently a high school student from Calgary, Alberta, Canada interested in creating software and hardware systems. 
+I am currently a first-year Computer Engineering student @ the University of Waterloo student. I am interested in creating software and hardware systems. 
 
 My passion from STEM originates from time at FIRST robotics, completion of CS50, completion of a Web Development Bootcamp, and my tendency to be curious. My curiosity eventually led me to building projects that are fun and unique! 
 
