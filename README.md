@@ -27,4 +27,5 @@ I am proactive in my learning
 Feel free to contact me: 
 
 LinkedIn: https://www.linkedin.com/in/hp30
+
 Email: h329pate@uwaterloo.ca
