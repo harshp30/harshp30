@@ -1,6 +1,6 @@
 ### Hi there, I'm Harsh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a Computer Engineering student @ the University of Waterloo student. 
+I am a Computer Engineering student @ the University of Waterloo. 
 
 I am seeking a Machine Learning / Software Engineering Internship for the Fall 2022 Term (September 2022 - Decemeber 2022)
 
