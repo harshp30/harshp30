@@ -21,5 +21,5 @@ Here are a few projects I have built over the past few years...
 
 Feel free to contact me: 
 
-Website: https://harshp30.github.io/Website/
-LinkedIn: https://www.linkedin.com/in/hp30
+- Website: https://harshp30.github.io/Website/
+- LinkedIn: https://www.linkedin.com/in/hp30
