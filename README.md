@@ -1,29 +1,25 @@
-### Hi there, I'm Harsh 👋
+### Hi there, I'm Harsh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am currently a Computer Engineering student @ the University of Waterloo student. I am interested in creating software and hardware systems. 
+I am a Computer Engineering student @ the University of Waterloo student. 
 
-My passion from STEM originates from time at FIRST robotics, completion of CS50, completion of a Web Development Bootcamp, and my tendency to be curious. My curiosity eventually led me to building projects that are fun and unique! 
+I am seeking a Machine Learning / Software Engineering Internship for the Fall 2022 Term (September 2022 - Decemeber 2022)
 
-I have months of experience in Python, JavaScript, HTML, CSS, Java, C++, and Processing 
+My previous work experience comes from...
 
-Some of my projects that you can find on here include: 
+- Software Engineering Intern @ Friendlier (January 2022 - April 2022)
+- Software Developer Intern @ Xerris (July 2021 - August 2021)
+
+Here are a few projects I have built over the past few years... 
 
 - Heart Disease Classification Model
 - California Housing Regression Model
 - Dog Breed Identification Model
 - Autonomous RC Car
-- Basketball Mini hoop that keeps track of a user's makes and misses 
+- Basketball Mini Hoop Shot Tracker
 - PC LED system  
 - Hand gestured RC Car 
 
-Currently I am interning at Friendlier as a FSoftware Engineer and am building projects on the side.
-
-Outside of work,  
-
-I spend time playing or watching sports 
-I spend time learning new skills
-I am proactive in my learning
-
 Feel free to contact me: 
 
+Website: https://harshp30.github.io/Website/
 LinkedIn: https://www.linkedin.com/in/hp30
