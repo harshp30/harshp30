@@ -2,7 +2,7 @@
 
 I am a Computer Engineering student @ the University of Waterloo. 
 
-I am seeking a Machine Learning / Software Engineering Internship for the Fall 2022 Term (September 2022 - Decemeber 2022)
+I am interning as a Machine Learning Engineer @ PerkinElmer
 
 My previous work experience comes from...
 
