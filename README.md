@@ -10,6 +10,8 @@
 
 <h3>Projects:</h3>
 
+Check out my website [here](https://harshp30.github.io/Website/)
+
 - <a href="https://github.com/harshp30/LiveSignLanguageTranslator">Sign Language Translator</a>
 - <a href="https://github.com/harshp30/LiveDashcamCarDetection">Live Car Object Detection</a>
 - <a href="https://github.com/harshp30/MovementBasedMacOSControl">macOS motion controller</a>
