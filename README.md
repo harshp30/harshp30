@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harsh!</h1>
-<h3 align="center">I am currently working @ PerkinElmer as a Machine Learning Engineer Intern</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshp30&label=Profile%20views&color=0e75b6&style=flat" alt="harshp30" /> </p>
+<h3 align="center">I am currently interning @ PerkinElmer as a Machine Learning Engineer</h3>
+<h3 align="center">I am also a Computer Engineering student @ the University of Waterloo</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
