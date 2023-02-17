@@ -5,6 +5,7 @@
 
 <h3>Previous Experience:</h3>
 
+- Machine Learning Engineer Intern at <ins>PerkinElmer</ins> (September 2022 - Present)
 - Software Engineering Intern at <ins>Friendlier</ins> (January 2022 - April 2022)
 - Software Developer Intern at <ins>Xerris</ins> (July 2021 - August 2021)
 
