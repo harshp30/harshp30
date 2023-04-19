@@ -18,6 +18,9 @@ Check out my website [here](https://harshp30.github.io/Website/)
 - <a href="https://github.com/harshp30/BlackScholesOptionsPricing">Black-Scholes Option Pricing</a>
 - <a href="https://github.com/harshp30/YOLOandSSDImageVideoClassifier">YOLO and SSD Image and Video Classifier</a>
 - <a href="https://github.com/harshp30/DeepQLearningTicTacToe">Deep Q-Learning TicTacToe Game</a>
+- <a href="https://github.com/harshp30/ViolaJonesVideoAnonymizer">Viola Jones Video Anonymizer</a>
+- <a href="https://github.com/harshp30/LaneDetectionAlgorithm">Lane Detection Algorithm</a>
+- <a href="https://github.com/harshp30/CNNCifar10">Convolutional Neural Network Cifar-10</a>
 - <a href="https://github.com/harshp30/LiveSignLanguageTranslator">Sign Language Translator</a>
 - <a href="https://github.com/harshp30/LiveDashcamCarDetection">Live Car Object Detection</a>
 - <a href="https://github.com/harshp30/MovementBasedMacOSControl">macOS motion controller</a>
