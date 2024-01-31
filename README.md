@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harsh!</h1>
-<h3 align="center">I am currently seeking a Fall 2023 Internship</h3>
+<h3 align="center">I am currently seeking a Summer 2024 Internship</h3>
 <h3 align="center">I am also a Computer Engineering student at the <ins>University of Waterloo</ins></h3>
 <h1></h1>
 
