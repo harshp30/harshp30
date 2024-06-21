@@ -1,10 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harsh!</h1>
-<h3 align="center">I am currently seeking a Summer 2024 Internship</h3>
+<h3 align="center">I am currently seeking a Winter 2025 Internship</h3>
 <h3 align="center">I am also a Computer Engineering student at the <ins>University of Waterloo</ins></h3>
 <h1></h1>
 
 <h3>Previous Experience:</h3>
 
+- Artificial Intelligence Researcher at <ins>CViSS Lab - University of Waterloo</ins> (May 2024 - Present)
 - Machine Learning Developer Intern at <ins>IBM</ins> (September 2023 - December 2023)
 - Machine Learning Engineer Intern at <ins>PerkinElmer</ins> (September 2022 - April 2023)
 - Software Engineering Intern at <ins>Friendlier</ins> (January 2022 - April 2022)
