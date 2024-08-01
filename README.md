@@ -3,43 +3,15 @@
 <h3 align="center">I am also a Computer Engineering student at the <ins>University of Waterloo</ins></h3>
 <h1></h1>
 
-<h3>Previous Experience:</h3>
+Hello! I'm Harsh Patel, a dedicated Computer Engineering student at the University of Waterloo. My passion lies in pushing the boundaries of technology and innovation, with a strong foundation in machine learning.
 
-- Artificial Intelligence Researcher at <ins>CViSS Lab - University of Waterloo</ins> (May 2024 - Present)
-- Machine Learning Developer Intern at <ins>IBM</ins> (September 2023 - December 2023)
-- Machine Learning Engineer Intern at <ins>PerkinElmer</ins> (September 2022 - April 2023)
-- Software Engineering Intern at <ins>Friendlier</ins> (January 2022 - April 2022)
-- Software Developer Intern at <ins>Xerris</ins> (July 2021 - August 2021)
+Currently, I'm working as an Artificial Intelligence Researcher Intern at the CViSS Lab at the University of Waterloo, where I'm developing frameworks for generating synthetic 3D point cloud and mesh scenes, and creating custom semantic segmentation models for 3D environments. My professional journey includes valuable experiences as a Machine Learning Developer Intern at IBM and a Machine Learning Engineer Intern at PerkinElmer, Inc., where I've contributed to diverse projects ranging from computer vision applications to deep reinforcement learning algorithms.
 
-<h3>Projects:</h3>
+My expertise spans machine learning, computer vision, and quantitative finance. I've applied these skills in various projects, from developing sophisticated trading strategies to creating advanced video processing algorithms. Currently, I'm working on exciting personal projects, including:
 
-Check out my website [here](https://harshp30.github.io/PersonalWebsite/)
-
-- <a href="https://github.com/harshp30/SVMIndicatorsTradingStrategyImplementation">SVM and Momentum Indicators Trading Strategy</a>
-- <a href="https://github.com/harshp30/TimeSeriesTradingStrategyImplementation">Time Series Trading Strategy</a>
-- <a href="https://github.com/harshp30/BlackScholesOptionsPricing">Black-Scholes Option Pricing</a>
-- <a href="https://github.com/harshp30/YOLOandSSDImageVideoClassifier">YOLO and SSD Image and Video Classifier</a>
-- <a href="https://github.com/harshp30/DeepQLearningTicTacToe">Deep Q-Learning TicTacToe Game</a>
-- <a href="https://github.com/harshp30/ViolaJonesVideoAnonymizer">Viola Jones Video Anonymizer</a>
-- <a href="https://github.com/harshp30/LaneDetectionAlgorithm">Lane Detection Algorithm</a>
-- <a href="https://github.com/harshp30/CNNCifar10">Convolutional Neural Network Cifar-10</a>
-- <a href="https://github.com/harshp30/LiveSignLanguageTranslator">Sign Language Translator</a>
-- <a href="https://github.com/harshp30/LiveDashcamCarDetection">Live Car Object Detection</a>
-- <a href="https://github.com/harshp30/MovementBasedMacOSControl">macOS motion controller</a>
-- <a href="https://github.com/harshp30/DogBreedIdentification">Dog Breed Identification</a>
-- <a href="https://github.com/harshp30/AutonomousRCCar">Autonomous RC Car</a>
-- <a href="https://github.com/harshp30/BasketballMiniHoop">Basketball Mini Hoop Shot Tracker</a>
-- <a href="https://github.com/harshp30/PCLEDLights">PC LED system</a>
-- <a href="https://github.com/harshp30/HandGestureControlRCCar">Hand gestured RC Car</a>
-
-<h3>Stats:</h3>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshp30&show_icons=true&locale=en" alt="harshp30" /></p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/hp30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hp30/" height="30" width="40" /></a>
-</p>
+An AI-driven trading bot for optimizing my own investment strategies
+A cutting-edge project inspired by a recent Google DeepMind research paper (more details coming soon!)
+I'm always eager to take on new challenges and collaborate on innovative projects. For my next step, I'm actively seeking a Winter 2025 internship opportunity where I can apply my skills in real-world scenarios and contribute to cutting-edge developments in the tech industry.
 
 
 
