@@ -3,16 +3,9 @@
 <h3 align="center">I am also a Computer Engineering student at the <ins>University of Waterloo</ins></h3>
 <h1></h1>
 
-<p>Currently, I'm working as an <strong>Artificial Intelligence Researcher Intern</strong> at the CViSS Lab at the University of Waterloo, where I'm developing frameworks for generating synthetic 3D point cloud and mesh scenes, and creating custom semantic segmentation models for 3D environments. My professional journey includes valuable experiences as a <strong>Machine Learning Developer Intern at IBM</strong> and a <strong>Machine Learning Engineer Intern at PerkinElmer, Inc.</strong>, where I've contributed to diverse projects ranging from computer vision applications to deep reinforcement learning algorithms.</p>
+<p>I recently completed my role as an <strong>Artificial Intelligence Researcher Intern</strong> at the CViSS Lab at the University of Waterloo, where I developed frameworks for generating synthetic 3D point cloud and mesh scenes, and created custom semantic segmentation models for 3D environments. My professional journey includes valuable experiences as a <strong>Machine Learning Developer Intern at IBM</strong> and a <strong>Machine Learning Engineer Intern at PerkinElmer, Inc.</strong>, where I've contributed to diverse projects ranging from computer vision applications to deep reinforcement learning algorithms.</p>
             
-<p>My expertise spans machine learning, computer vision, and quantitative finance. I've applied these skills in various projects, from developing sophisticated trading strategies to creating advanced video processing algorithms. Currently, I'm working on exciting personal projects, including:</p>
-
-<ul>
-  <li>An AI-driven trading bot for optimizing my own investment strategies</li>
-  <li>A cutting-edge project inspired by a recent Google DeepMind research paper (more details coming soon!)</li>
-</ul>
-            
-<p>I'm always eager to take on new challenges and collaborate on innovative projects. For my next step, I'm actively seeking
+<p>I'm always eager to take on new challenges and dive into innovative projects. My journey in tech is driven by a constant desire to learn and grow. I'm excited to continue expanding my skills through internships and personal projects, pushing the boundaries of what's possible with AI and machine learning. Curious about what I've been working on? Check out some of my work below!</p>
 
 
 
