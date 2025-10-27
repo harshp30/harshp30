@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="👋">, I'm Harsh!
 </h1>
-<h3 align="center">Actively seeking Winter / Summer 2026 Machine‑Learning internships</h3>
+<h3 align="center">Incoming Autopilot AI Intern @ Tesla</h3>
 <h3 align="center">Computer Engineering @ <ins>University of Waterloo</ins></h3>
 <hr>
 
