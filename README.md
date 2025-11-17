@@ -3,4 +3,4 @@
 </h1>
 
 <h3 align="center">Incoming Autopilot AI Intern @ Tesla</h3>
-<h3 align="center">Computer Engineering @ <ins>University of Waterloo</ins></h3>
+<h3 align="center">University of Waterloo</ins></h3>
